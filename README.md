@@ -1,4 +1,5 @@
 Bitcoin
 =======
 
-Python Script Used for Scripting Bitcoin Blocks
+python script used for scraping Bitcoin blocks information from blockexplorer.com 
+
